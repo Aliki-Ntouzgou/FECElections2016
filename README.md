@@ -6,7 +6,7 @@ You can find the assignment <a href="https://drive.google.com/drive/folders/1wVt
 
 ## Requirements
 
-The project requires:1.1.3 (or later).
+The project requires: 
 
 1. Installation of <a href="https://pandas.pydata.org/">pandas library</a>, version 1.1.3 (or later).
 2. Installation of <a href="https://jupyter.org/install">Jupyter Notebook.</a>
