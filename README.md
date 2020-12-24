@@ -1,6 +1,6 @@
 # FEC Elections 2016
 
-<i>Please not that the data analysis is still ongoing and the project is not finished.</i>
+<i>Please note that the data analysis is still ongoing and the project is not finished.</i>
 
 This repository includes an assignment assigned by <a href="https://github.com/louridas">Panos Louridas</a> for the needs of the Applied Machine Learning course offered by the Department of Management Science & Technology of the Athens University of Economics and Business. The assignment investigates the FEC elections 2016 data using the pandas library and is restricted in Hillary R. Clinton's and Donald J. Trump's financial activities conducted during 2015 and 2016 for the needs of their campaigns.
 
