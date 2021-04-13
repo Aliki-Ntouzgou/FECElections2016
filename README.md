@@ -2,9 +2,14 @@
 
 <i>Please note that the data analysis is still ongoing and the project is not finished.</i>
 
-This repository includes an assignment assigned by <a href="https://github.com/louridas">Panos Louridas</a> for the needs of the Applied Machine Learning course offered by the Department of Management Science & Technology of the Athens University of Economics and Business. The assignment investigates the FEC elections 2016 data using the pandas library and is restricted in Hillary R. Clinton's and Donald J. Trump's financial activities conducted during 2015 and 2016 for the needs of their campaigns.
+This repository includes an assignment assigned by <a href="https://github.com/louridas">Panos Louridas</a> for the needs of the Applied Machine Learning course offered by the Department of Management Science & Technology of the Athens University of Economics and Business. The assignment is based on a dataset containing Greek Parliament proceedings of the last 30 years and consists of 4 parts:
 
-You can find the assignment <a href="https://drive.google.com/drive/folders/1wVto79y2BtIiXmoBHZ3Q4ifSeeR8BfkH?usp=sharing">here.</a>
+1. An EDA (Exploratory Data Analysis)
+2. Application of classification algorithms
+3. Classification using Neural Networks
+4. A Text Generation based on a Tensorflow Hub tutorial
+
+You can find the assignment <a href="https://drive.google.com/drive/folders/1xasANiPPPW55O7GaQCf21df-t_7w4tAC?usp=sharing">here.</a>
 
 ## Requirements
 
